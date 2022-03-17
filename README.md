@@ -1,5 +1,5 @@
 # Pure CSS Beating Heart Animation
-CodePlayer Pure CSS Beating Heart Animation. Made with HTML and CSS.
+CodePlayer Pure CSS Beating Heart Animation.
 
 ## Instructions
 Clone the repo or download the zip file. Open index.html in the browser.
